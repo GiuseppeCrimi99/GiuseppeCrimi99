@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Crimi</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
 
-- 🔭 I’m currently working on **web development technologies like JavaScript, React etc.**
+- 🔭 I’m currently learning on **web development technologies like JavaScript, React etc.**
 
 - 🌱 I’m currently learning **everything about Frontend and Backend technologies 😅**
 
